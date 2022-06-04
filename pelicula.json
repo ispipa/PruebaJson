@@ -1,0 +1,12 @@
+{
+    "pelicula":[
+     { 
+      "Titulo":"La vida es bella",
+      "Director":"Roberto Benigni"
+    },
+     { 
+      "Titulo":"Jurassic park",
+      "Director":"Steven Spielberg"
+     }
+    ]
+}
